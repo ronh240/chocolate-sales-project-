@@ -1,10 +1,10 @@
-# 🍫 Chocolate Sales Project
+# Chocolate Sales Project
 
 This project explores a dataset of chocolate sales across various countries, products, and sales representatives. The data includes over 1,000 rows and was analyzed using Python in a Jupyter notebook.
 
 ---
 
-## 📊 Project Goals
+## Goals of this project 
 
 - Clean and wrangle sales data
 - Visualize trends in chocolate sales by product and country
@@ -12,7 +12,7 @@ This project explores a dataset of chocolate sales across various countries, pro
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Python** (Google Colab)
 - **pandas** and **numpy** for data manipulation
@@ -20,7 +20,7 @@ This project explores a dataset of chocolate sales across various countries, pro
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 - Countries like the UK and Australia had the highest total sales.
 - Some chocolate products consistently brought in higher sale amounts.
@@ -28,19 +28,19 @@ This project explores a dataset of chocolate sales across various countries, pro
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `Chocolate_Sales_Project_Final.ipynb`: Complete notebook with all analysis and graphs
 - `Project 1 final`: Supplemental notes or backup content
 
 ---
 
-## 🧠 What I Learned
+## hat I Learned
 
 This project helped me get more comfortable working with real datasets and applying statistical thinking through bootstrapping. It also gave me practice visualizing trends in a way that’s easy to explain to others.
 
 ---
 
-## 📎 How to View
+##  How to View
 
 You can open the notebook in [Google Colab](https://colab.research.google.com/) by uploading the `.ipynb` file, or view the code directly here on GitHub.
